@@ -5,7 +5,6 @@ If you want to contribute, please submit a pull request.
 
 Feel free to add your project :)
 
-
 # Table of Contents
 * [Well-known Distributions](#well-known-distributions)
 * [Embeddable Scripting Languages](#embeddable-scripting-languages)
@@ -233,7 +232,6 @@ These modules are not distributed with the Nginx source.
 * [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) - Health Checker for Nginx Upstream Servers in Pure Lua. 
 * [lua-resty-lock](https://github.com/openresty/lua-resty-lock) - Simple nonblocking lock API for ngx_lua based on shared memory dictionaries. 
 
-
 ## Built-in Modules
 For more details, see [nginx.org](http://nginx.org/en/docs/).
 
@@ -300,15 +298,9 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [Monitoring Nginx on Kubernetes](https://sysdig.com/blog/monitor-nginx-kubernetes/) - Deployment options, use cases, metrics and alerts for containerized Nginx instances on Kubernetes.
 
 ## Mailing Lists
-
-
 * [Nginx Mailman](http://mailman.nginx.org/mailman/listinfo)
 
-
-
-
 ## Forum
-
 * [Nginx Forum](http://forum.nginx.org/)
 * [Nginx Community Slack](https://community.nginx.org/joinslack)
 * [OpenResty Forum](http://groups.google.com/group/openresty-en)
@@ -317,3 +309,4 @@ For more details, see [nginx.org](http://nginx.org/en/docs/).
 * [Maxim Dounin](https://twitter.com/mdounin)
 * [Roman Arutyunyan](https://github.com/arut)
 * Sergey Kandaurov
+
