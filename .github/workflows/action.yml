@@ -1,5 +1,12 @@
 name: Linkspector
-on: [pull_request]
+on:
+  workflow_dispatch:
+  
+  push:
+    branches: [ master ]
+    paths:
+      - '**.md'
+      
 jobs:
   check-links:
     name: runner / linkspector
